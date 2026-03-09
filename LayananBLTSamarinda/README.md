@@ -1,7 +1,3 @@
-Nama : Ayu Azzhahrah Alwi 
-NIM   : 2409106022
-Kelas  : A1’24
-
 # Sistem Layanan Penerimaan Bantuan Langsung Tunai (BLT) Kota Samarinda
 
 ## Deskripsi Program
@@ -102,9 +98,8 @@ Program ini memiliki beberapa fitur utama:
 
 Pengguna dapat memasukkan:
 
-* Nama
-* NIK
-* Alamat
+![Layanan BLT Samarinda](gambar/tambahdata.png)
+*Gambar 1. tambah data.*
 
 Data kemudian akan disimpan ke dalam **ArrayList**.
 
@@ -116,13 +111,8 @@ Program akan menampilkan seluruh data penerima bantuan yang sudah tersimpan.
 
 Contoh tampilan:
 
-```
-===== DATA PENERIMA =====
-Data ke-1
-Nama   : Andi
-NIK    : 6471xxxxxxxx
-Alamat : Samarinda
-```
+![Layanan BLT Samarinda](gambar/lihatdata.png)
+*Gambar 2. lihat data.*
 
 ---
 
@@ -130,13 +120,29 @@ Alamat : Samarinda
 
 Pengguna dapat menghapus data dengan memasukkan **nomor data** yang ingin dihapus.
 
+![Layanan BLT Samarinda](gambar/hapusdata.png)
+*Gambar 3. hapus data.*
+
 ---
 
 ### 4. Edit Data
 
 Pengguna dapat memperbarui data penerima bantuan dengan memilih nomor data yang ingin diedit.
 
+![Layanan BLT Samarinda](gambar/hapusdata.png)
+*Gambar 4. hapus data.*
+
 ---
+
+### 5. Keluar
+
+Pengguna dapat memperbarui data penerima bantuan dengan memilih nomor data yang ingin diedit.
+
+![Layanan BLT Samarinda](gambar/keluar.png)
+*Gambar 5. keluar.*
+
+---
+
 
 ## Struktur Menu Program
 
@@ -210,8 +216,8 @@ Dengan memanfaatkan konsep **Object Oriented Programming**, program ini dapat di
 
 ## Author
 
-Nama: *(Isi dengan nama kamu)*
-Mata Kuliah: **Pemrograman Berorientasi Objek (PBO)**
-Universitas: *(Isi universitas kamu)*
+Nama: Ayu Azzhahrah Alwi
+NIM: 2409106022
+Kelas: A1'24
 
 ---
