@@ -11,18 +11,7 @@ Program ini memungkinkan pengguna untuk:
 * Menghapus data penerima bantuan
 * Mengedit data penerima bantuan
 
-Program dibuat menggunakan konsep dasar **Object Oriented Programming (OOP)** dengan menggunakan **class**, **object**, **ArrayList**, dan **method**.
-
----
-
-## Tujuan Program
-
-Tujuan dari pembuatan program ini adalah:
-
-1. Mengimplementasikan konsep **Object Oriented Programming (OOP)** dalam Java.
-2. Membuat sistem sederhana untuk mengelola data penerima bantuan.
-3. Melatih penggunaan **ArrayList** sebagai penyimpanan data dinamis.
-4. Melatih penggunaan **Scanner** untuk input data dari pengguna.
+Program dibuat menggunakan konsep dasar **PBO** dengan menggunakan **class**, **object**, **ArrayList**, dan **method**.
 
 ---
 
@@ -180,33 +169,11 @@ Run Project (F6)
 
 ---
 
-## Teknologi yang Digunakan
-
-* Bahasa Pemrograman: **Java**
-* IDE: **Apache NetBeans**
-* Struktur Project: **Maven Project**
-
----
-
-## Konsep Pemrograman yang Digunakan
-
-Beberapa konsep pemrograman yang digunakan dalam program ini:
-
-* Object Oriented Programming (OOP)
-* Class dan Object
-* Method
-* ArrayList
-* Perulangan (Looping)
-* Percabangan (Switch Case)
-* Input Output menggunakan Scanner
-
----
-
 ## Kesimpulan
 
 Program **Layanan BLT Samarinda** merupakan aplikasi sederhana berbasis Java yang dapat digunakan untuk mengelola data penerima bantuan secara sistematis.
 
-Dengan memanfaatkan konsep **Object Oriented Programming**, program ini dapat dikembangkan lebih lanjut menjadi sistem yang lebih kompleks seperti:
+Dengan memanfaatkan konsep **PBO**, program ini dapat dikembangkan lebih lanjut menjadi sistem yang lebih kompleks seperti:
 
 * Penyimpanan database
 * Interface GUI
